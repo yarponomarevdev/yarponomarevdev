@@ -51,7 +51,7 @@
 
 **Инструменты**
 
-<img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" /> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github,gitlab" />
+<img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" /> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github" />
 
 ---
 
