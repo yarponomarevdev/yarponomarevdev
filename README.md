@@ -21,17 +21,33 @@
 
 ## Стек
 
-**Frontend**
+**Клиент (UI)**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css" />
 
-**Backend**
+**Стили**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,prisma" />
+<img src="https://skillicons.dev/icons?i=tailwind,sass" />
 
-**Инфраструктура**
+**Сборка / Runtime**
 
-<img src="https://skillicons.dev/icons?i=docker,supabase,postgres,vercel,redis,npm,pnpm" />
+<img src="https://skillicons.dev/icons?i=nodejs,gulp,pug,npm,pnpm" />
+
+**Backend / API**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django" />
+
+**Данные**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" />
+
+**Деплой / Инфраструктура**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel" />
+
+**CMS**
+
+<img src="https://skillicons.dev/icons?i=wordpress" />
 
 **Инструменты**
 
