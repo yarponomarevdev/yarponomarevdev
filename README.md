@@ -1,13 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ярослав%20Пономарёв&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI-разработчик%20·%20MVP%20под%20ключ%20·%20Cursor%20%2B%20AI-агенты&descAlignY=56&descSize=16" width="100%"/>
+
 <div align="center">
 
-# Ярослав Пономарёв
-
-### AI-разработчик · MVP под ключ · Cursor + AI-агенты
-
-Делегирую разработку AI-агентам и выпускаю рабочие продукты за 2–4 недели.
-Работаю в стеке **Next.js / Node.js / Python**, интегрирую AI через OpenAI, OpenRouter, Vercel AI SDK.
-
 [![Telegram](https://img.shields.io/badge/Telegram-@yarponomarevdev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yarponomarevdev)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-yaroslavponomarev.pro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaroslavponomarev.pro@gmail.com)
 
 </div>
@@ -16,10 +12,10 @@
 
 ## Чем занимаюсь
 
-- Собираю **MVP под ключ** — от концепции до деплоя за 2–4 недели
+- Собираю **MVP под ключ** — от концепции до деплоя за **2–4 недели**
 - Специализация: **SaaS**, **Telegram-боты**, **Telegram Mini App**, **веб-сервисы**
 - Использую **AI-агентов в Cursor** как основной инструмент разработки
-- Консультирую разработчиков по **флоу-разработке с AI**
+- Консультирую разработчиков по **флоу-разработки с AI**
 
 ---
 
@@ -27,26 +23,27 @@
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,tailwind,react" />
+
+> Next.js · React · Vue · TypeScript · Tailwind CSS · React Native
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+
+> Node.js · Fastify · Python · FastAPI
 
 **Инфраструктура и AI**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B35?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,openai" />
+
+> Supabase · PostgreSQL · Vercel · OpenAI · OpenRouter · Vercel AI SDK
+
+**Инструменты**
+
+<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000000" height="48" />
+
+> VS Code · Cursor
 
 ---
 
@@ -58,7 +55,7 @@
 
 Пользователь создаёт форму с произвольными полями, подключает базу знаний (PDF, DOCX, CSV), настраивает AI-промпты — и получает персонализированные ответы для каждого лида. Форму можно встроить на сайт или открыть по прямой ссылке.
 
-**Стек:** Next.js · TypeScript · Supabase · OpenAI · Resend · Vercel
+`Next.js` `TypeScript` `Supabase` `OpenAI` `Resend` `Vercel`
 
 ---
 
@@ -79,18 +76,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarponomarevdev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yarponomarevdev&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarponomarevdev&layout=compact&theme=dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarponomarevdev&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 <div align="center">
 
 **Есть идея для MVP? Пиши.**
 
-[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yarponomarevdev)
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yarponomarevdev)
 
 </div>
