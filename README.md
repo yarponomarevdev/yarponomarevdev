@@ -35,13 +35,13 @@
 
 **Инфраструктура и AI**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,redis,npm,pnpm" />
 
 > Supabase · PostgreSQL · OpenRouter · Vercel AI SDK
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" />
 
 > Cursor · VS Code · Visual Studio 2022
 
