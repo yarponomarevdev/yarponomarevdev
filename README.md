@@ -27,15 +27,15 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,fastify" />
 
-**Инфраструктура и AI**
+**Инфраструктура**
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,redis,npm,pnpm" />
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
 
 ---
 
