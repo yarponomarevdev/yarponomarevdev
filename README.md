@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ярослав%20Пономарев&fontSize=48&fontColor=fff&fontAlignY=36&desc=AI-разработчик%20·%20MVP%20под%20ключ%20·%20Cursor%20%2B%20AI-агенты&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ярослав%20Пономарев&fontSize=48&fontColor=fff&fontAlignY=36&desc=AI-разработчик%20·%20MVP%20под%20ключ%20" width="100%"/>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 Пользователь создаёт форму с произвольными полями, подключает базу знаний (PDF, DOCX, CSV), настраивает AI-промпты — и получает персонализированные ответы для каждого лида. Форму можно встроить на сайт или открыть по прямой ссылке.
 
-`Next.js` `TypeScript` `Supabase` `Resend` `Vercel`
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel,resend" />
 
 ---
 
