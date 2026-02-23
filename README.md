@@ -27,7 +27,7 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,django,prisma" />
 
 **Инфраструктура**
 
@@ -47,7 +47,7 @@
 
 Пользователь создаёт форму с произвольными полями, подключает базу знаний (PDF, DOCX, CSV), настраивает AI-промпты — и получает персонализированные ответы для каждого лида. Форму можно встроить на сайт или открыть по прямой ссылке.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel,resend" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel" />
 
 ---
 
