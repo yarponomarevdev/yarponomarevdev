@@ -35,15 +35,21 @@
 
 **Инфраструктура и AI**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,openai" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,openai" />
 
-> Supabase · PostgreSQL · Vercel · OpenAI · OpenRouter · Vercel AI SDK
+> Supabase · PostgreSQL · OpenAI · OpenRouter · Vercel AI SDK
+
+**Деплой**
+
+<img src="https://skillicons.dev/icons?i=vercel" />&nbsp;<img src="./assets/Dokploy_logo.png" height="48" />
+
+> Vercel · Dokploy
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,datagrip" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />&nbsp;<img src="https://img.shields.io/badge/Dokploy-6C47FF?style=for-the-badge&logo=dokploy&logoColor=white" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />
 
-> Cursor · VS Code · Visual Studio 2022 · DataGrip · Dokploy
+> Cursor · VS Code · Visual Studio 2022
 
 ---
 
