@@ -35,7 +35,7 @@
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github" />
 
 ---
 
