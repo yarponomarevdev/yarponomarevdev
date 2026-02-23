@@ -41,9 +41,9 @@
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,datagrip" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />&nbsp;<img src="https://img.shields.io/badge/Dokploy-6C47FF?style=for-the-badge&logo=dokploy&logoColor=white" height="48" />
 
-> VS Code · Cursor
+> Cursor · VS Code · Visual Studio 2022 · DataGrip · Dokploy
 
 ---
 
