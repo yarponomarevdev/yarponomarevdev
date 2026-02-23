@@ -25,25 +25,17 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,tailwind,react" />
 
-> Next.js · React · Vue · TypeScript · Tailwind CSS · React Native
-
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
-
-> Node.js · Fastify · Python · FastAPI
 
 **Инфраструктура и AI**
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,redis,npm,pnpm" />
 
-> Supabase · PostgreSQL · OpenRouter · Vercel AI SDK
-
 **Инструменты**
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git" />
-
-> Cursor · VS Code · Visual Studio 2022
 
 ---
 
