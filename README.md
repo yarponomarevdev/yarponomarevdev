@@ -43,7 +43,7 @@
 
 **Деплой / Инфраструктура**
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,vercel" />
 
 **CMS**
 
