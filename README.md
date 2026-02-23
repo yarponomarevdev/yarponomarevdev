@@ -41,7 +41,7 @@
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;<img src="./assets/cursor-icon.svg" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode" />&nbsp;<img src="./assets/Cursor_logo.png" height="48" />
 
 > VS Code · Cursor
 
