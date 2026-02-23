@@ -51,7 +51,7 @@
 
 **Инструменты**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github" /> <img src="https://www.cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
 
 ---
 
