@@ -21,7 +21,7 @@
 
 ## Стек
 
-**Клиент (UI)**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css" />
 
@@ -37,7 +37,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,django" />
 
-**Данные**
+**Управление данными**
 
 <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" />
 
