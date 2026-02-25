@@ -55,7 +55,17 @@
 
 ---
 
-## Текущий проект
+## Проекты
+
+### [Health Life](https://github.com/yarponomarevdev/health-life) · [healthlife-ai.ru](https://healthlife-ai.ru)
+
+Telegram Mini App для отслеживания показателей здоровья с AI-ассистентом.
+
+Пользователь ведёт медкарту, логирует метрики (сон, активность, питание), получает интеграцию с внешними источниками данных и общается с AI-ассистентом, который анализирует динамику здоровья.
+
+<img src="https://skillicons.dev/icons?i=vue,ts,fastify,postgres,redis,docker" />
+
+---
 
 ### [SmartResponse](https://github.com/yarponomarevdev/smart-response) · [smartresponse.vercel.app](https://smartresponse.vercel.app)
 
