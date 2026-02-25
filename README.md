@@ -21,7 +21,7 @@
 
 ## Стек
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css,tailwind,sass,nodejs,gulp,pug,npm,pnpm,python,fastapi,django" /> <img src="./assets/icons/fastify.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma,docker,vercel,wordpress,vscode,visualstudio,obsidian,figma,git,github" /> <img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css,tailwind,sass,nodejs,gulp,pug,npm,pnpm,python,fastapi,django&perline=50" /> <img src="./assets/icons/fastify.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma,docker,vercel,wordpress,vscode,visualstudio,obsidian,figma,git,github&perline=50" /> <img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" />
 
 ---
 
