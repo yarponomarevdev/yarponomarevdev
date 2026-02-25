@@ -21,37 +21,7 @@
 
 ## Стек
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css" />
-
-**Стили**
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass" />
-
-**Сборка / Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,gulp,pug,npm,pnpm" />
-
-**Backend / API**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django" />
-
-**Управление данными**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma" />
-
-**Деплой / Инфраструктура**
-
-<img src="https://skillicons.dev/icons?i=docker,vercel" />
-
-**CMS**
-
-<img src="https://skillicons.dev/icons?i=wordpress" />
-
-**Инструменты**
-
-<img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" /> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,obsidian,figma,git,github" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css,tailwind,sass,nodejs,gulp,pug,npm,pnpm,python,fastapi,django,postgres,redis,supabase,prisma,docker,vercel,wordpress,vscode,visualstudio,obsidian,figma,git,github" /> <img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" />
 
 ---
 
@@ -63,7 +33,7 @@ Telegram Mini App для отслеживания показателей здо�
 
 Пользователь ведёт медкарту, логирует метрики (сон, активность, питание), получает интеграцию с внешними источниками данных и общается с AI-ассистентом, который анализирует динамику здоровья.
 
-<img src="https://skillicons.dev/icons?i=vue,ts" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
+<img src="https://skillicons.dev/icons?i=vue,ts" /> <img src="./assets/icons/fastify.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
 
 ---
 
