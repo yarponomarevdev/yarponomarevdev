@@ -10,43 +10,6 @@
 
 ---
 
-## Чем занимаюсь
-
-- Собираю **MVP под ключ** — от концепции до деплоя за **2–4 недели**
-- Специализация: **SaaS**, **Telegram-боты**, **Telegram Mini App**, **веб-сервисы**
-- Использую **Cursor** как основной инструмент разработки
-- Консультирую разработчиков по **разработке с AI**
-
----
-
-## Стек
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,html,css,tailwind,sass,nodejs,gulp,pug,npm,pnpm,python,fastapi,django&perline=50" /> <img src="./assets/icons/fastify.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,prisma,docker,vercel,wordpress,vscode,visualstudio,obsidian,figma,git,github&perline=50" /> <img src="./assets/icons/cursor.svg?v=2" width="48" height="48" alt="Cursor" /> <img src="./assets/icons/linear.svg?v=2" width="48" height="48" alt="Linear" />
-
----
-
-## Проекты
-
-### [Health Life](https://github.com/yarponomarevdev/health-life) · [healthlife-ai.ru](https://healthlife-ai.ru)
-
-Telegram Mini App для отслеживания показателей здоровья с AI-ассистентом.
-
-Пользователь ведёт медкарту, логирует метрики (сон, активность, питание), получает интеграцию с внешними источниками данных и общается с AI-ассистентом, который анализирует динамику здоровья.
-
-<img src="https://skillicons.dev/icons?i=vue,ts" /> <img src="./assets/icons/fastify.svg" width="48" height="48" alt="Fastify" /> <img src="https://skillicons.dev/icons?i=postgres,redis,docker" />
-
----
-
-### [SmartResponse](https://github.com/yarponomarevdev/smart-response) · [smartresponse.vercel.app](https://smartresponse.vercel.app)
-
-Платформа умных форм с AI-генерацией для лидогенерации.
-
-Пользователь создаёт форму с произвольными полями, подключает базу знаний (PDF, DOCX, CSV), настраивает AI-промпты — и получает персонализированные ответы для каждого лида. Форму можно встроить на сайт или открыть по прямой ссылке.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel" />
-
----
-
 ## GitHub Stats
 
 <div align="center">
